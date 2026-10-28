@@ -2,6 +2,8 @@
 
 A deliberately small, command-driven prototype inspired by JARVIS: **one instruction in, one simple local task out**.
 
+**Portfolio:** [PORTFOLIO.md](PORTFOLIO.md) — AI quality, data annotation, automation, virtual assistance, and content QA.
+
 This is **not** the full JARVIS assistant. It is a proof-of-concept for demonstrating command parsing, safe local workspace actions, and a simple computer task without exposing credentials, email, business data, or personal information.
 
 ## What it does
